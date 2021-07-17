@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on **AC TOOLS for VS-Code and NodeJS** and **[TDS-VSCode](https://github.com/brodao/tds-vscode)**
+- 🔭 I’m currently working on:
+  -  **AC TOOLS for VS-Code and NodeJS** and **[TDS-VSCode](https://github.com/brodao/tds-vscode)**  
+  -  **AC Domótica** para automação doméstoca
 - 🌱 I’m currently learning *something*
 
 <!--
